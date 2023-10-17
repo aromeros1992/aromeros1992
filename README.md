@@ -6,4 +6,4 @@
 - 🎉 I put emotion, enthusiasm and all my technological knowledge into each project.
 - 🔗🌐 Don't forget to follow me on LinkedIn.
 
-[![linked-in-2668700_640](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw)]([https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/](https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/)https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/)
+[![linked-in-2668700_640](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w120-h240-rw)]([https://www.linkedin.com/in/g%C3%B6zde-%C3%B6-70570a244/](https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/)https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/)
