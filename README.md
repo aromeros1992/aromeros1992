@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontColor=ffffff&desc=Android%20%26%20Kotlin%20Multiplatform%20Developer&descAlignY=65" width="100%" alt="Alejandro Romero"/></a>
+<a href="https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontColor=ffffff&desc=Android%20and%20Kotlin%20Multiplatform%20Developer&descAlignY=65" width="100%" alt="Alejandro Romero"/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Multiplatform;Microservices+on+OpenShift+%26+Kubernetes;Event-driven+systems+with+RabbitMQ;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
