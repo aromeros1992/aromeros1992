@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontColor=ffffff&desc=Android%20%26%20Kotlin%20Multiplatform%20Developer&descAlignY=65" width="100%" alt="Alejandro Romero"/>
+<a href="https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontColor=ffffff&desc=Android%20%26%20Kotlin%20Multiplatform%20Developer&descAlignY=65" width="100%" alt="Alejandro Romero"/></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Multiplatform;Microservices+on+OpenShift+%26+Kubernetes;Event-driven+systems+with+RabbitMQ;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -18,7 +18,7 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
 - 📱 **Mobile:** native Android with Kotlin & Java, and shared code across platforms with **Kotlin Multiplatform** and Compose.
 - ☁️ **Backend & cloud:** containerized services running in **pods on OpenShift / Kubernetes**.
 - 📨 **Messaging:** asynchronous, event-driven communication with **RabbitMQ**.
-- 🗄️ **Data:** designing and working with relational databases and on-device storage.
+- 🗄️ **Data:** relational (SQL) and NoSQL databases like **MongoDB** and **Firebase**, plus on-device storage.
 - 🌐 **Web:** JavaScript, TypeScript and React.
 - 🍓 **Side projects:** Raspberry Pi and a self-hosted home lab.
 - 🤖 Currently exploring **AI-assisted development** and the Model Context Protocol (MCP).
@@ -49,12 +49,14 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLite%20%2F%20Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite / Room"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 **Web & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,raspberrypi,git,github,androidstudio,idea&perline=8" alt="Web and tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,raspberrypi,git,github&perline=6" alt="Web and tools"/>
 </p>
 
 ## 📫 Let's connect
