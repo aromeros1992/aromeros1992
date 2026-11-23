@@ -19,7 +19,7 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
 - ☁️ **Backend & cloud:** **Spring Boot** services running in **pods on OpenShift / Kubernetes**.
 - 📨 **Messaging:** asynchronous, event-driven communication with **RabbitMQ**.
 - 🗄️ **Data:** relational (SQL) and NoSQL databases like **MongoDB** and **Firebase**, plus on-device storage.
-- 🌐 **Web:** JavaScript, TypeScript and React.
+- 🌐 **Web:** JavaScript, TypeScript and Angular.
 - 🍓 **Side projects:** Raspberry Pi and a self-hosted home lab.
 - 🤖 Currently exploring **AI-assisted development** and the Model Context Protocol (MCP).
 
@@ -57,7 +57,7 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
 **Web & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,raspberrypi,git,github&perline=6" alt="Web and tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,raspberrypi,git,github&perline=6" alt="Web and tools"/>
 </p>
 
 ## 📫 Let's connect
