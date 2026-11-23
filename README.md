@@ -1,7 +1,7 @@
-<a href="https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Android%20and%20Kotlin%20Multiplatform%20Developer&descSize=18&descAlignY=58" width="100%" alt="Alejandro Romero"/></a>
+<a href="https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,60:326CE5,100:7F52FF&height=180&section=header&text=Alejandro%20Romero&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=Android%20and%20Kotlin%20Multiplatform%20Developer&descSize=18&descAlignY=58" width="100%" alt="Alejandro Romero"/></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Multiplatform;Microservices+on+OpenShift+%26+Kubernetes;Event-driven+systems+with+RabbitMQ;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=326CE5&center=true&vCenter=true&width=600&lines=Android+%26+Kotlin+Multiplatform;Microservices+on+OpenShift+%26+Kubernetes;Event-driven+systems+with+RabbitMQ;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -64,4 +64,4 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
 
 Open to new challenges and collaborations — reach me on [LinkedIn](https://www.linkedin.com/in/alejandro-romero-soriano-81a082167/).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,40:326CE5,100:0A2540&height=100&section=footer" width="100%" alt=""/>
