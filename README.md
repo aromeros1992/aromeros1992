@@ -16,7 +16,7 @@
 I'm a developer who enjoys building products end to end — from the **mobile app** in the user's hand to the **services and infrastructure** behind it.
 
 - 📱 **Mobile:** native Android with Kotlin & Java, and shared code across platforms with **Kotlin Multiplatform** and Compose.
-- ☁️ **Backend & cloud:** containerized services running in **pods on OpenShift / Kubernetes**.
+- ☁️ **Backend & cloud:** **Spring Boot** services running in **pods on OpenShift / Kubernetes**.
 - 📨 **Messaging:** asynchronous, event-driven communication with **RabbitMQ**.
 - 🗄️ **Data:** relational (SQL) and NoSQL databases like **MongoDB** and **Firebase**, plus on-device storage.
 - 🌐 **Web:** JavaScript, TypeScript and React.
@@ -35,9 +35,10 @@ I'm a developer who enjoys building products end to end — from the **mobile ap
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
-**Cloud, containers & messaging**
+**Backend, cloud & messaging**
 
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
